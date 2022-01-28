@@ -110,6 +110,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5aba6aad4c0238c43987cdd677c7dd07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  blockPrefab: {fileID: 8610345044507969812}
+  gameData: {fileID: 11400000, guid: 674430ab66fc3864cb0e0541891ea6bf, type: 2}
 --- !u!210 &1286612140081670165
 SortingGroup:
   m_ObjectHideFlags: 0
